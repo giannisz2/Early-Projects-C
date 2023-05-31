@@ -1,0 +1,1 @@
+A robot is moving in a grid NxM that contains some coins in randm positions. The robot can move only down and down-left. It stops when it reaches Grid[n-1][m-1]. Find the path that will collect the most COINS. A grid is given as an example.
